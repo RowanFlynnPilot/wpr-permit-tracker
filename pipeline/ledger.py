@@ -32,8 +32,8 @@ def merge(ledger, records):
             new += 1
     return new
 
-
 def save(ledger, path):
+    os.makedirs(os.path.dirname(path) or ".", exist_ok=True)
     tmp = path + ".tmp"
     with open(tmp, "w", encoding="utf-8") as f:
         json.dump(ledger, f, indent=1, sort_keys=True)
