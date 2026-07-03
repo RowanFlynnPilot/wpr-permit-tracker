@@ -1,0 +1,46 @@
+{
+  "instance": "wpr",
+  "source": "wausau_monthly_pdf",
+  "jurisdictions": [
+    "wausau",
+    "schofield",
+    "rib_mountain"
+  ],
+  "map": {
+    "center": [
+      44.9591,
+      -89.6301
+    ],
+    "zoom": 12
+  },
+  "branding": {
+    "title": "What's Going In There?",
+    "subtitle": "Monthly Development Report",
+    "fonts": {
+      "display": "Fraunces",
+      "body": "Public Sans",
+      "data": "JetBrains Mono"
+    },
+    "colors": {
+      "accent": "#3A867C",
+      "bg": "#f6f2e9",
+      "ink": "#1a1a1a"
+    }
+  },
+  "sponsor": {
+    "zone": "broadstreet",
+    "zone_id": null,
+    "label": "presented by"
+  },
+  "property_history_url": null,
+  "policy": {
+    "aggregate_templates": [
+      "Excavation",
+      "Plumbing Lateral"
+    ],
+    "feature_templates": [
+      "Com Building",
+      "Residential Building"
+    ]
+  }
+}
