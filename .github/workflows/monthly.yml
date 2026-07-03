@@ -43,3 +43,4 @@ jobs:
         with:
           path: web/dist
       - uses: actions/deploy-pages@v4
+# registration touch
