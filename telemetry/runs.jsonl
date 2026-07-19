@@ -1,2 +1,3 @@
 {"ts": "2026-07-03T04:55:24.528344+00:00", "report_month": "2026-05", "fetch_status": "ok", "bytes": 214439, "records_parsed": 838, "grand_total": 838, "verified": true, "new_records": 838, "geocode_calls": 836, "geocode_unmatched": 17, "published": 283, "duration_s": 1181.8}
 {"ts": "2026-07-12T15:14:25.727834+00:00", "report_month": "2026-06", "fetch_status": "ok", "bytes": 221570, "records_parsed": 857, "grand_total": 857, "verified": true, "new_records": 857, "geocode_calls": 847, "geocode_unmatched": 15, "published": 604, "duration_s": 1063.1}
+{"ts": "2026-07-19T15:04:39.927061+00:00", "report_month": "2026-06", "fetch_status": "no_new_report", "duration_s": 0.9}
