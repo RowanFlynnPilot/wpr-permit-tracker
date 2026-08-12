@@ -30,5 +30,21 @@
    "permits_issued": 857,
    "valuation": 31304448
   }
+ },
+ "2026-07": {
+  "rib_mountain": {
+   "valuation": 461615
+  },
+  "schofield": {
+   "permits_issued": 11,
+   "valuation": 547296
+  },
+  "unassigned": {
+   "permits_issued": 1
+  },
+  "wausau": {
+   "permits_issued": 993,
+   "valuation": 8621093
+  }
  }
 }
