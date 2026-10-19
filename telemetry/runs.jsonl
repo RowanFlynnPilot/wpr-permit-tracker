@@ -5,3 +5,4 @@
 {"ts": "2026-08-19T14:41:34.455575+00:00", "report_month": "2026-07", "fetch_status": "no_new_report", "duration_s": 1.7}
 {"ts": "2026-09-12T16:47:23.873085+00:00", "report_month": "2026-07", "fetch_status": "no_new_report", "duration_s": 0.6}
 {"ts": "2026-09-19T17:09:37.318199+00:00", "report_month": "2026-07", "fetch_status": "no_new_report", "duration_s": 0.5}
+{"ts": "2026-10-19T20:04:39.803595+00:00", "report_month": "2026-09", "fetch_status": "ok", "bytes": 217811, "records_parsed": 820, "grand_total": 820, "verified": true, "new_records": 820, "geocode_calls": 816, "geocode_unmatched": 23, "published": 1351, "duration_s": 1108.7}
